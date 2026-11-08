@@ -1,0 +1,10 @@
+[project]
+name = "still-you"
+version = "0.1.0"
+description = "A Lightweight On-Device Model for Identity-Preserving Art Movement Portraits"
+readme = "README.md"
+authors = [
+    { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
