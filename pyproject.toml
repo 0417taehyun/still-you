@@ -7,4 +7,16 @@ authors = [
     { name = "Taehyun Lee", email = "0417taehyun@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "datasets>=5.1.0",
+    "facexlib>=0.3.0",
+    "insightface>=2.1",
+    "matplotlib>=3.11.2",
+    "onnx>=1.23.2",
+    "onnxruntime>=1.31.1",
+    "onnxscript>=0.7.2",
+    "torch>=2.15.0",
+    "torchmetrics[image]>=1.9.0",
+    "torchvision>=0.29.2",
+    "tqdm>=4.70.1",
+]
